@@ -1,7 +1,7 @@
 # Comptuer-Aid-Teaching-for-Learning-English
-a multi-account system where user can login & register, learn English words, phrases, and sentences with different levels, and review what they have learned before.
-Based on C++, user login information and English learning materials will be stored in database.
+CAT_ is main code.
 
-the implementaion
+Purpose:
+Design a multi-account system where user can login & register, learn English words, phrases, and sentences with different levels, and review what they have learned before.
 solution
 technologies used
